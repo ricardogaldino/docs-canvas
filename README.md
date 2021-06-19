@@ -1,2 +1,1 @@
-# docs-canvas
-Canvas (Software Engineering) 
+# Canvas (Software Engineering) 
